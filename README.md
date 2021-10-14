@@ -36,7 +36,6 @@ DEBUG = True
 Запуск скрипта производится командой 
 ```
 python3 manage.py runserver 0.0.0.0:8000
-
 ```
 После этого в браузере открыть адрес [localhost:8000](localhost:8000)
 
